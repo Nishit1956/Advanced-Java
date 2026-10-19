@@ -1,0 +1,438 @@
+28-Sep-2026 10:10:54.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.25
+28-Sep-2026 10:10:54.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 12 2026 12:46:04 UTC
+28-Sep-2026 10:10:54.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.25.0
+28-Sep-2026 10:10:54.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Sep-2026 10:10:54.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\jdk
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26.0.2+10-55
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:10:54.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Advance java\apache-tomcat-11.0.25\conf\logging.properties
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+28-Sep-2026 10:10:54.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:10:54.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Advance java\apache-tomcat-11.0.25\temp
+28-Sep-2026 10:10:54.386 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;D:\jdk\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;D:\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\ASUS\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Antigravity\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Program;C:\Program Files\Git\cmd;D:\apache-maven-3.9.16-bin\apache-maven-3.9.16\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\ASUS\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Antigravity\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Users\ASUS\AppData\Local\Programs\DockerDesktop\resources\bin;c:\Users\ASUS\.vscode\extensions\vscjava.vscode-java-debug-0.59.0\bundled\scripts\noConfigScripts;.]
+28-Sep-2026 10:10:54.597 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:10:54.612 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [438] milliseconds
+28-Sep-2026 10:10:54.664 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Sep-2026 10:10:54.664 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.25]
+28-Sep-2026 10:10:54.674 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\docs]
+28-Sep-2026 10:10:54.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\docs] has finished in [284] ms
+28-Sep-2026 10:10:54.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\examples]
+28-Sep-2026 10:10:55.391 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\examples] has finished in [427] ms
+28-Sep-2026 10:10:55.391 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\host-manager]
+28-Sep-2026 10:10:55.433 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\host-manager] has finished in [42] ms
+28-Sep-2026 10:10:55.433 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\manager]
+28-Sep-2026 10:10:55.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\manager] has finished in [40] ms
+28-Sep-2026 10:10:55.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\ROOT]
+28-Sep-2026 10:10:55.499 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\ROOT] has finished in [26] ms
+28-Sep-2026 10:10:55.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet]
+28-Sep-2026 10:10:55.510 SEVERE [main] org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource Unable to process web resource [/WEB-INF/classes/com/servlet/Main.class] for annotations
+	java.io.EOFException
+		at java.base/java.io.DataInputStream.readFully(DataInputStream.java:215)
+		at java.base/java.io.DataInputStream.readInt(DataInputStream.java:390)
+		at org.apache.tomcat.util.bcel.classfile.ClassParser.readID(ClassParser.java:208)
+		at org.apache.tomcat.util.bcel.classfile.ClassParser.parse(ClassParser.java:74)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2364)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2247)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2242)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2242)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1447)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1351)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:1046)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:300)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4523)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1606)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:286)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:395)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:342)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:759)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1204)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1200)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:149)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:732)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:201)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:871)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:883)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:482)
+28-Sep-2026 10:10:55.520 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet] has finished in [20] ms
+28-Sep-2026 10:10:55.523 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:10:55.542 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [926] milliseconds
+28-Sep-2026 10:28:26.515 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet-1.0-SNAPSHOT]
+28-Sep-2026 10:28:26.541 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet-1.0-SNAPSHOT] has finished in [26] ms
+28-Sep-2026 10:28:47.072 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/servlet-1.0-SNAPSHOT]
+28-Sep-2026 10:28:47.081 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet,]
+28-Sep-2026 10:28:47.081 WARNING [Catalina-utility-2] org.apache.catalina.util.LifecycleMBeanBase.register Failed to register object [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/servlet,]] with name [Catalina:j2eeType=WebModule,name=//localhost/servlet,,J2EEApplication=none,J2EEServer=none] during component initialisation
+	javax.management.MalformedObjectNameException: Invalid character ',' in key part of property
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:502)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.util.LifecycleMBeanBase.register(LifecycleMBeanBase.java:130)
+		at org.apache.catalina.util.LifecycleMBeanBase.initInternal(LifecycleMBeanBase.java:55)
+		at org.apache.catalina.core.StandardContext.initInternal(StandardContext.java:5589)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:128)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:161)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1655)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:47.084 WARNING [Catalina-utility-2] org.apache.catalina.util.LifecycleMBeanBase.register Failed to register object [org.apache.catalina.webresources.StandardRoot@6e5695e9] with name [Catalina:type=WebResourceRoot,host=localhost,context=/servlet,] during component initialisation
+	javax.management.MalformedObjectNameException: Invalid ending comma
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:585)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.util.LifecycleMBeanBase.register(LifecycleMBeanBase.java:130)
+		at org.apache.catalina.util.LifecycleMBeanBase.initInternal(LifecycleMBeanBase.java:55)
+		at org.apache.catalina.webresources.StandardRoot.initInternal(StandardRoot.java:732)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:128)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:161)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4304)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4426)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1655)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:47.085 WARNING [Catalina-utility-2] org.apache.catalina.util.LifecycleMBeanBase.register Failed to register object [org.apache.catalina.webresources.Cache@72c00585] with name [Catalina:type=WebResourceRoot,host=localhost,context=/servlet,,name=Cache] during component initialisation
+	javax.management.MalformedObjectNameException: Invalid character ',' in key part of property
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:502)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.util.LifecycleMBeanBase.register(LifecycleMBeanBase.java:130)
+		at org.apache.catalina.webresources.StandardRoot.initInternal(StandardRoot.java:738)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:128)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:161)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4304)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4426)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1655)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:47.086 WARNING [Catalina-utility-2] org.apache.catalina.util.LifecycleMBeanBase.register Failed to register object [WebappLoader[StandardEngine[Catalina].StandardHost[localhost].StandardContext[/servlet,]]] with name [Catalina:type=Loader,host=localhost,context=/servlet,] during component initialisation
+	javax.management.MalformedObjectNameException: Invalid ending comma
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:585)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.util.LifecycleMBeanBase.register(LifecycleMBeanBase.java:130)
+		at org.apache.catalina.util.LifecycleMBeanBase.initInternal(LifecycleMBeanBase.java:55)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:128)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:161)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4473)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1655)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:47.088 SEVERE [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Error deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet,]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:586)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1655)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+	Caused by: org.apache.catalina.LifecycleException: Error starting the loader
+		at org.apache.catalina.loader.WebappLoader.startInternal(WebappLoader.java:359)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4473)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		... 23 more
+	Caused by: javax.management.MalformedObjectNameException: Invalid ending comma
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:585)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.loader.WebappLoader.startInternal(WebappLoader.java:353)
+		... 27 more
+28-Sep-2026 10:28:47.089 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet,] has finished in [8] ms
+28-Sep-2026 10:28:57.610 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/servlet,]
+28-Sep-2026 10:28:57.610 WARNING [Catalina-utility-2] org.apache.catalina.util.LifecycleMBeanBase.register Failed to register object [org.apache.catalina.deploy.NamingResourcesImpl@78ead689] with name [Catalina:type=NamingResources,host=localhost,context=/servlet,] during component initialisation
+	javax.management.MalformedObjectNameException: Invalid ending comma
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:585)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.util.LifecycleMBeanBase.register(LifecycleMBeanBase.java:130)
+		at org.apache.catalina.util.LifecycleMBeanBase.initInternal(LifecycleMBeanBase.java:55)
+		at org.apache.catalina.deploy.NamingResourcesImpl.initInternal(NamingResourcesImpl.java:909)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:128)
+		at org.apache.catalina.core.StandardContext.setNamingResources(StandardContext.java:2101)
+		at org.apache.catalina.core.StandardContext.getNamingResources(StandardContext.java:2059)
+		at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:217)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:236)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:276)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:654)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1461)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1390)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1642)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:57.613 WARNING [Catalina-utility-2] org.apache.catalina.loader.WebappLoader.stopInternal Error stopping the loader
+	javax.management.MalformedObjectNameException: Invalid ending comma
+		at java.management/javax.management.ObjectName.construct(ObjectName.java:585)
+		at java.management/javax.management.ObjectName.<init>(ObjectName.java:1240)
+		at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:402)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:241)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:4874)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:241)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:276)
+		at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:654)
+		at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1461)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1390)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1642)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:284)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:956)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1179)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1183)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1156)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:371)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+28-Sep-2026 10:28:57.616 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet.war]
+28-Sep-2026 10:28:57.639 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet.war] has finished in [23] ms
+28-Sep-2026 10:29:22.335 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+28-Sep-2026 10:29:22.336 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:29:22.343 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Sep-2026 10:29:22.361 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:29:22.365 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:29:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.25
+28-Sep-2026 10:29:30.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 12 2026 12:46:04 UTC
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.25.0
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\jdk
+28-Sep-2026 10:29:30.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26.0.2+10-55
+28-Sep-2026 10:29:30.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Sep-2026 10:29:30.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:29:30.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Advance java\apache-tomcat-11.0.25\conf\logging.properties
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2026 10:29:30.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Advance java\apache-tomcat-11.0.25
+28-Sep-2026 10:29:30.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Advance java\apache-tomcat-11.0.25\temp
+28-Sep-2026 10:29:30.792 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;D:\jdk\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;D:\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\ASUS\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Antigravity\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Program;C:\Program Files\Git\cmd;D:\apache-maven-3.9.16-bin\apache-maven-3.9.16\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\ASUS\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Antigravity\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Users\ASUS\AppData\Local\Programs\DockerDesktop\resources\bin;c:\Users\ASUS\.vscode\extensions\vscjava.vscode-java-debug-0.59.0\bundled\scripts\noConfigScripts;.]
+28-Sep-2026 10:29:31.007 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:29:31.026 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [411] milliseconds
+28-Sep-2026 10:29:31.062 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Sep-2026 10:29:31.062 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.25]
+28-Sep-2026 10:29:31.074 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\docs]
+28-Sep-2026 10:29:31.288 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\docs] has finished in [211] ms
+28-Sep-2026 10:29:31.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\examples]
+28-Sep-2026 10:29:31.497 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\examples] has finished in [208] ms
+28-Sep-2026 10:29:31.497 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\host-manager]
+28-Sep-2026 10:29:31.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\host-manager] has finished in [31] ms
+28-Sep-2026 10:29:31.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\manager]
+28-Sep-2026 10:29:31.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\manager] has finished in [21] ms
+28-Sep-2026 10:29:31.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\ROOT]
+28-Sep-2026 10:29:31.566 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\ROOT] has finished in [17] ms
+28-Sep-2026 10:29:31.566 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet]
+28-Sep-2026 10:29:31.591 SEVERE [main] org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource Unable to process web resource [/WEB-INF/classes/com/servlet/Main.class] for annotations
+	java.io.EOFException
+		at java.base/java.io.DataInputStream.readFully(DataInputStream.java:215)
+		at java.base/java.io.DataInputStream.readInt(DataInputStream.java:390)
+		at org.apache.tomcat.util.bcel.classfile.ClassParser.readID(ClassParser.java:208)
+		at org.apache.tomcat.util.bcel.classfile.ClassParser.parse(ClassParser.java:74)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2364)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2247)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2242)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2242)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1447)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1351)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:1046)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:300)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4523)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:583)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:677)
+		at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1092)
+		at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1883)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:996)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:412)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1606)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:286)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:395)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:342)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:759)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1204)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1200)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:92)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:149)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:732)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:201)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:871)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:883)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:482)
+28-Sep-2026 10:29:31.601 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet] has finished in [35] ms
+28-Sep-2026 10:29:31.602 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet.war]
+28-Sep-2026 10:29:31.623 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Advance java\apache-tomcat-11.0.25\webapps\servlet.war] has finished in [21] ms
+28-Sep-2026 10:29:31.626 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:29:31.646 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [617] milliseconds

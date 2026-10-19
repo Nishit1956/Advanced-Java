@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:11:23 +0530] "GET /Mywebapp/Index.html HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:11:23 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:11:44 +0530] "GET /servlet/student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:11:49 +0530] "GET /servlet/student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:16:58 +0530] "GET /servlet/student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:16:58 +0530] "GET /servlet/student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:16:58 +0530] "GET /servlet/student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:19:37 +0530] "GET /servlet/Student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:29:52 +0530] "GET /servlet/Student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:29:54 +0530] "GET /servlet/Student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:29:54 +0530] "GET /favicon.ico HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:29:54 +0530] "GET /servlet/Student.jsp HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [28/Sep/2026:10:29:54 +0530] "GET /servlet/Student.jsp HTTP/1.1" 404 742
