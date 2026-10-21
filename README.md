@@ -20,7 +20,7 @@ java-lab/
 
 ## 🚀 Projects Overview
 
-### 1. 🧮 Calculator (`calculator/`)
+### 1. 🧮 Calculator (`Calculator/`)
 - **Description:** A desktop calculator built using the **Model-View-Controller (MVC)** architectural pattern in Java Swing.
 - **Key Components:**
   - `modelscalculator.java` — Core mathematical logic and state handling.
@@ -36,7 +36,7 @@ java-lab/
 
 ---
 
-### 2. 📝 Student Registration System (`student-registration/`)
+### 2. 📝 Student Registration System (`StudentRegistration/`)
 - **Description:** A database-backed CRUD application that allows registering students, validating input fields, and storing records into a MySQL database.
 - **Technologies:** Java Swing/AWT, JDBC (Java Database Connectivity), MySQL (`mysql-connector-j-9.7.0.jar`).
 - **How to Run:**
@@ -48,7 +48,7 @@ java-lab/
 
 ---
 
-### 3. 🌐 Server-Client Networking (`serverclient/`)
+### 3. 🌐 Server-Client Networking (`Server-Client/`)
 - **Description:** Real-time bidirectional socket communication between a TCP server and client using Java Networking (`java.net.Socket`, `java.net.ServerSocket`).
 - **Key Components:**
   - `server.java` — TCP Server listening on a specified port.
@@ -69,7 +69,7 @@ java-lab/
 
 ---
 
-### 4. 📡 Remote Method Invocation (`rmi/`)
+### 4. 📡 Remote Method Invocation (`RMI/`)
 - **Description:** A distributed computing application demonstrating Java RMI (Remote Method Invocation) to execute methods across different JVM instances via `LocateRegistry`.
 - **Key Components:**
   - `MyInterface.java` — Remote interface extending `java.rmi.Remote` that defines the callable remote method (`add(int, int)`).
@@ -103,7 +103,7 @@ java-lab/
 
 ---
 
-### 6. 🛒 ShopSphere (`shopsphere/`)
+### 6. 🛒 ShopSphere (`ShopSphere/`)
 - **Description:** A comprehensive enterprise-grade e-commerce application integrating multiple Java architectures:
   - **Swing Admin Panel:** Desktop backoffice for inventory and order management.
   - **Web Storefront:** Servlet/JSP web interface for customer browsing and checkout.
